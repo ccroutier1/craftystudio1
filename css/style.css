@@ -1,0 +1,53 @@
+ {
+ margin: 1;
+ padding 1;
+ }
+
+ .social-icon {
+    color: aqua;
+  display: contents;
+    margin: 0 10px;
+    width: 10px;
+    background-color: transparent;
+ }
+
+ .social-icon:hover {
+    color: blue;
+    transition: color 0.2s;
+ }
+
+ .studio-c {
+   width: 1280px;
+   height: 100px;
+
+ }
+.text-center w-full p-t-23 {
+  font-size: 20px;
+  color: #ffffff;
+
+}
+.icon100 {
+  color: #fefefe;
+  width: 100px;
+  height: 100px;
+  display:flex;
+}
+.icon100:hover {
+  color: rgb(121, 121, 211);
+  transition: color 0.2s;
+}
+
+.login100-form-title {
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 200px rgb(0, 119, 255), 0 0 90px #fff;
+
+}
+
+.img100 {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+  
